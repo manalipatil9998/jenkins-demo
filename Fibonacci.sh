@@ -19,6 +19,17 @@ else
     read Num
 fi
 
+
+
+
+
+
+
+
+
+
+
+
 f1=0
 f2=1
 
